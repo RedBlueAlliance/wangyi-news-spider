@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfd7b906-322f-412c-afff-d61efe19e3e2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/news_begin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/spiders/wangyidocuments.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="49" column="31" selection-end-line="55" />
+              <folding>
+                <element signature="e#24#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="23" column="20" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/documents_begin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" selection-start-line="10" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/begin.py" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/begin.py" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/settings.py" />
+        <option value="$PROJECT_DIR$/wangyinewsSpider/spiders/wangyinews.py" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/documents.csv" />
+        <option value="$PROJECT_DIR$/news.csv" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/pipelines.py" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/spiders/wangyidocuments.py" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/items.py" />
+        <option value="$PROJECT_DIR$/../wangyidocumentsSpider/documents_begin.py" />
+        <option value="$PROJECT_DIR$/news_begin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyinewsSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyinewsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyinewsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyinewsSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyinewsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyinewsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyidocumentsSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyidocumentsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyidocumentsSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyinewsSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyidocumentsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyidocumentsSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../文本分类/基于复旦的文本分类/ SogouNewsClassification" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.documents_begin">
+    <configuration name="documents_begin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wangyidocumentsSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wangyidocumentsSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wangyidocumentsSpider/documents_begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="news_begin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wangyinewsSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news_begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="wangyinewsSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.news_begin" />
+      <item itemvalue="Python.documents_begin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.documents_begin" />
+        <item itemvalue="Python.news_begin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd7b906-322f-412c-afff-d61efe19e3e2" name="Default" comment="" />
+      <created>1559612551777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559612551777</updated>
+      <workItem from="1561656216822" duration="685000" />
+      <workItem from="1561689135188" duration="3172000" />
+      <workItem from="1561707383563" duration="76000" />
+      <workItem from="1561707533188" duration="632000" />
+      <workItem from="1561717371829" duration="1001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5566000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24322917" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/python2.7/dist-packages/scrapy/http/request/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/database/国际/3艘中国军舰&quot;意外&quot;停靠悉尼港?澳总理:在计划之中.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/17个月大男孩火车上瞳孔扩散、抽搐 多亏这位大姐.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/3岁童模被母亲踹背后:&quot;红的孩子&quot;一年挣一套房.txt" />
+    <entry file="file://$PROJECT_DIR$/database/国内/ 侠客岛：短短两天&quot;赴美预警&quot;三连发 传递啥信号.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/中国人1年吃掉2万亿零食 网友:我也参与了万亿项目.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/男子被打昏在路中央 几分钟后又遭出租车碾压身亡.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/二手交易平台频现色情等违法交易:通过&quot;暗语&quot;沟通.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/超市老板25元卖2双袜子 结果竟被判赔偿6000元.txt" />
+    <entry file="file://$PROJECT_DIR$/database/国内/G20峰会前中美高官再沟通 世界盼两国贸易摩擦降温.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/国内/中纪委点名8名部级官员炒股 7人已宣判2人获无期.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/国内/刘鹤与美国贸易代表莱特希泽、财政部长姆努钦通话.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/国内/香港前特首曾荫权案终极上诉结果：撤销定罪及判刑.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/twisted/internet/defer.py" />
+    <entry file="file://$PROJECT_DIR$/database/国际/25次手术后 孟加拉国“树人”小伙主动要求截肢.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/国际/NBA球星库里答网友问 暗示汤普森或继续为勇士效力.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/社会/交行：目前没有受到任何因涉嫌违反制裁法律的调查.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/90后女主播卖新型毒品&quot;蓝精灵&quot;获刑:不知其是毒品.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/20岁女销售被同学抢车杀害 嫌犯曾吹嘘车是自己的.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/&quot;电影项目层层转包&quot;举报者:发帖为提醒他人不被骗.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/&quot;水幕电影转包&quot;涉事公司:被误伤 考虑走法律程序.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/&quot;孤儿院女童被性侵&quot;爆料涉及幼儿园:无此事 已报警.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/&quot;女子深夜遭殴打&quot;嫌犯父亲:无法解释儿子会这样做.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/农业农村部：水果价格回落 有望进入季节性下行.txt" />
+    <entry file="file://$PROJECT_DIR$/database/国际/13岁女孩小区电梯内遭拉拽头发猥亵 嫌犯已被刑拘.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/南京通报&quot;干部杀妻碎尸案&quot;：嫌犯因感情矛盾杀妻.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/六旬醉汉池塘漂浮一夜被当浮尸 捞起后其还在打鼾.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/&quot;女子深夜遭打&quot;嫌犯父亲:儿子在公司负责催债工作.txt" />
+    <entry file="file://$PROJECT_DIR$/database/社会/&quot;失踪少女为父子生3孩&quot;续:受害方将提起刑附民诉讼.txt" />
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.csv" />
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/documents.csv" />
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/图片/女孩深夜遭殴打视频疯传 绵阳网警:无法确定其真伪.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/社会/ &quot;女子深夜遭殴打&quot;疑事发大连 警方称曾接类似警情.txt" />
+    <entry file="file://$PROJECT_DIR$/database/图片/长沙:限购政策没有调整和放松 二手房已连跌10个月.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/国际/2架“台风”战机在德国相撞坠毁 飞行员1死1生还.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/国内/730万！深圳现天价二手房违约金 刷新当地纪录.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyinewsSpider/spiders/wangyinews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_begin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/spiders/wangyidocuments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="49" column="31" selection-end-line="55" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="20" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/documents_begin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wangyidocumentsSpider/wangyidocumentsSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
